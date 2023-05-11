@@ -2,13 +2,13 @@
 <h3 align="left">About me:</h3>
 Hi there! I'm a Software Engineer,currently living in the US.
 
-- 📄 Know about my experiences **https://sysadmin.fail/cv**
+- 📄 Check out my professional experience: **https://sysadmin.fail/cv**
 
-- 🌱 I’m currently learning **Golang, testing**
+- 🌱 I’m currently learning: **Golang, ML**
 
-- ⚡ Fun fact **I can currently hold my breath for 3.15 seconds**
+- ⚡ Fun fact: **I can currently hold my breath for 3.15 seconds**
 
-- 📫 How to reach me **resume@sysadmin.fail or **👇****
+- 📫 How to reach me: **resume@sysadmin.fail or **👇****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
