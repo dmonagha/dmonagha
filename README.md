@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=26&duration=2000&pause=1000&color=4CC9F0&background=405FE300&multiline=true&width=535&height=90&lines=Hey!+Nice+to+meet+you%2C+I'm+Derek+Monaghan.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <h3 align="left">About me:</h3>
-Hi there! I'm a Software Engineer,currently living in the US.
+<p align="left">
+Hi there! I'm a Software Engineer, currently living in the US. My career has been focused on fulfilling positions within cross-functional teams that fit my skill set, personality, and organizational values. Most of my time has been spent on agile, fully remote teams that demanded agility and tight communication for success. <br /></p>
+
+Outside of my ninja duties I enjoy traveling, running, diving, freediving, and spearfishing.
 
 - 📄 Check out my professional experience: **https://sysadmin.fail/cv**
 
