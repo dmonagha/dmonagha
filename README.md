@@ -9,7 +9,7 @@ Outside of my ninja duties I enjoy traveling, running, diving, freediving, and s
 
 - 🌱 I’m currently learning: **Golang, ML**
 
-- ⚡ Fun fact: **I can currently hold my breath for 3.15 seconds**
+- ⚡ Fun fact: **I can currently hold my breath for 3.15 minutes**
 
 - 📫 How to reach me: **resume@sysadmin.fail or **👇****
 
